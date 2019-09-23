@@ -12,7 +12,7 @@ likes received count average and likes received count median.
 
 ## Usage
 
-Clone this repository in the C drive. Next, `gcc myencode.c myencodesrc.c -o myencode -Wall` and type `./myencode` to view usage instructions.
+Clone this repository in any directory. Next, `gcc statsum_5682_5554.c statsumsrc_5682_5554.c -o statsum -Wall` and type `./statsum` to view the generated survey statistics report.
 
 ## Disclaimer
 
