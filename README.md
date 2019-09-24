@@ -12,7 +12,13 @@ likes received count average and likes received count median.
 
 ## Usage
 
-Clone this repository into any directory. Next, `gcc statsum.c statsumsrc.c -o statsum -Wall` and type `./statsum` to view the generated survey statistics report.
+1. Clone this repository into any directory. 
+
+2. Enter the "survey-statistics-report" directory by typing `cd survey-statistics-report`.
+
+3. Compile the program by typing `gcc statsum.c statsumsrc.c -o statsum -Wall`. 
+
+4. Run the program by typing `./statsum`.
 
 ## Disclaimer
 
