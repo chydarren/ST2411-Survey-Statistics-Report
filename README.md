@@ -20,7 +20,7 @@ likes received count average and likes received count median.
 
 ## Acknowledgements
 
-- **Chua Han Yong Darren** | [@chydarren](https://github.com/chydarren)
+- **Darren Chua** | [@chydarren](https://github.com/chydarren)
 - **Chng Wei Cheng**
 
 ## Credits
